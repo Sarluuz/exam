@@ -1,0 +1,159 @@
+.navbar{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 17px 0;
+}
+.col{
+    color: #fff;
+
+}
+.iphone{
+    width: 100%;
+    height: auto;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+    background-color: #FBFBFD;
+    padding-top: 51px;
+    padding-bottom: 12px;
+
+}
+.iphone-text h2{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    color: #1D1D1F;;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+}
+.iphone-text p{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    color: #1D1D1F;
+}
+.button{
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    color: #0066CC;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    /* list-style-type: none; */
+}
+.button a{
+    list-style-type: none;
+    border-radius: solid;
+    border: ;
+}
+.buy{
+    margin-left: 39.35px;
+}
+.iphone14{
+    width: 100%;
+    height: auto;
+    background-color: #000;
+    text-align: center;
+}
+.iphone14-text{
+    padding-top: 51px;
+    position: absolute;
+    top: 51px;
+    text-align: center;
+    align-items: center;
+    /* display: flex; */
+    justify-content: center;
+}
+.iphone14-text h2 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    color: #F5F5F7;
+    ;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+}
+
+.iphone14-text p {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    color: #F5F5F7;
+    text-align: center;
+}
+.iphone14-image{
+    position: relative;
+    text-align: center;
+}
+.apple{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.airpod-image{
+    position: relative;
+}
+.healthy-image{
+    position: relative;
+}
+.airpod-text{
+    position: absolute;
+    top: 49px;
+    left: 250.56px;
+    color:#F5F5F7;
+    text-align: center;
+
+}
+.healthy-text{
+    position: absolute;
+    top: 57px;
+    left: 154px;
+    color: #F5F5F7;
+    text-align: center;
+
+}
+.watch-healthy{
+    margin-right: 12px;
+}
+.fitness-text {
+    position: absolute;
+    top: 49px;
+    left: 250.56px;
+    color:#1D1D1F;
+    text-align: center;
+
+}
+
+.love-text {
+    position: absolute;
+    top: 57px;
+    left: 154px;
+    color:#1D1D1F;
+    text-align: center;
+
+}
+.footer-list p{
+    font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        color: #6E6E73;
+        letter-spacing: 0.12px;
+
+}
+.footer-article{
+    width: 100%;
+    height: auto;
+    background-color: #F5F5F7;
+}
